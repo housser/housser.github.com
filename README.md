@@ -1,1 +1,3 @@
-# housser.github.com
+# housser.github.io
+
+[John Housser](mailto:john@housser.ca)
